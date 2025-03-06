@@ -1,0 +1,5 @@
+.idea/
+docs/
+chart/
+terraform/
+vendor/
