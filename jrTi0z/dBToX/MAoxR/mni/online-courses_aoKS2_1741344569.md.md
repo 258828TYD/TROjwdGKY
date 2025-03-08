@@ -8,7 +8,6 @@ On a more serious note, I honestly hope this course inspired you to start your o
 
 Please, please let me know if there are mistakes, typos or if any of the information throughout the course is inaccurate 🙏🏼 remember that English is my second language, if there are sentences that can be improved also let me know.
 
-Since this is an open source course, there might be people that use it to provide a course on their own or take ideas from here to their own courses. That is **exactly** the idea behind me open sourcing it, just please mention me if you do use the material. 😬
 
 And lastly, pay it forward. If you can share your research, your knowledge or your time please do it!
 
