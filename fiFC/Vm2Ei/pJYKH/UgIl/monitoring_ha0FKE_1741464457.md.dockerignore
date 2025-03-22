@@ -21,7 +21,6 @@ build_docker_image.sh
 capybara-*.html
 .rspec
 !/tmp/.gitkeep
-**.orig
 rerun.txt
 pickle-email-*.html
 .idea/
