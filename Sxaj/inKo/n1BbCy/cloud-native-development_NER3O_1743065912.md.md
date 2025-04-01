@@ -140,7 +140,6 @@ If your project uses an outdated protobuf you may need to rebuild because all de
 - locked uvicorn version (0.12.3) to fixed runtime error
 
 ## [1.0.0] 2021-01-26
-### Added
 - Added db stub file to improve code intelligence
 - Ensure db remove even though exception raised
 ### Fixed
