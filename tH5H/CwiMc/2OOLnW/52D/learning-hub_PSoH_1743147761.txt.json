@@ -44,7 +44,6 @@
             "error",
             {
                 "commentPattern": "^skip\\sdefault"
-            }
         ],
         "dot-notation": "off",
         "eqeqeq": [
