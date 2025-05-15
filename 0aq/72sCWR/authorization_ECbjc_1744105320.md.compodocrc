@@ -1,7 +1,6 @@
 ---
 tsconfig: ./tsconfig.json
 output: ./docs
-theme: material
 hideGenerator: true
 disablePrivate: true
 disableInternal: true
