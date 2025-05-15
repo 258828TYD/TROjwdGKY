@@ -13,7 +13,6 @@
 *.doc	 diff=astextplain
 *.docx diff=astextplain
 *.DOCX diff=astextplain
-*.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
 *.PDF	 diff=astextplain
