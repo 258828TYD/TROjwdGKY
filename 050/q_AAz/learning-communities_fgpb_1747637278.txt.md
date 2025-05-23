@@ -332,7 +332,6 @@ nn = NeuralNetwork([
     ],
     layer_spacing=0.4,
 )
-# Center the nn
 nn.move_to(ORIGIN)
 self.add(nn)
 # Play animation
