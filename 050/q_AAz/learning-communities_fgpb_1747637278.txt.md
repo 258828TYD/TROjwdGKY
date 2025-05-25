@@ -278,7 +278,6 @@ self.play(forward_pass)
 We can now render with:
 
 ```bash
-$ manim -pql example.py
 ```
 
 <img src="assets/readme/max_pooling.gif">
