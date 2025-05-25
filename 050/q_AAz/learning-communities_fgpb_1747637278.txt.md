@@ -153,7 +153,6 @@ $ manim -pql example.py
 
 ### Animating the Forward Pass
 
-We can automatically render the forward pass of a neural network by creating the animation with the `neural_network.make_forward_pass_animation` method and play the animation in our scene with `self.play(animation)`. 
 
 ```python
 from manim_ml.neural_network import NeuralNetwork, FeedForwardLayer
