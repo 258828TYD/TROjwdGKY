@@ -170,7 +170,6 @@ self.play(forward_pass_animation)
 ```
 
 We can now render with:
-
 ```bash
 $ manim -pql example.py
 ```
