@@ -27,7 +27,6 @@ engines:
     
     checks:
       Rubocop/Metrics/LineLength:
-        enabled: false
 ratings:
   paths:
   - "**.erb"
