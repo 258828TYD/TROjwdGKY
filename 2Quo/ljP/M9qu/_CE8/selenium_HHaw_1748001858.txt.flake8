@@ -1,5 +1,4 @@
 [flake8]
-select =
 	E772,
 	F401,
 	F811,
