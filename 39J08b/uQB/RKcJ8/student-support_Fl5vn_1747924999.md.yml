@@ -28,7 +28,6 @@ engines:
     checks:
       Rubocop/Metrics/LineLength:
 ratings:
-  paths:
   - "**.erb"
   - "**.haml"
   - "**.rb"
