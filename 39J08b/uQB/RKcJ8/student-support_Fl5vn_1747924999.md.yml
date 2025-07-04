@@ -32,7 +32,6 @@ ratings:
   - "**.erb"
   - "**.haml"
   - "**.rb"
-  - "**.rhtml"
 exclude_paths:
 - 'bin/**/*'
 - 'db/**/*'
