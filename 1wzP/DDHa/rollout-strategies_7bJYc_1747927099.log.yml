@@ -61,7 +61,6 @@ spec:
                     enabled: true
                     retries:
                       attempts: 1
-                      retryOn: refused-stream
                 DestinationRule:
                   enabled: true
 
