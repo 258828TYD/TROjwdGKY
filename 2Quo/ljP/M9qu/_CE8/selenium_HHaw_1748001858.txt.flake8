@@ -3,7 +3,6 @@
 	F401,
 	F811,
 	F821,
-	F823,
 	C901, # complexity
 	E225 # whitespace around operators
 max_complexity = 70
