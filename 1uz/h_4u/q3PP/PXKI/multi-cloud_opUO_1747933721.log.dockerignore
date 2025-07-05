@@ -5,7 +5,6 @@ README.md
 
 # Ignore build and log files
 Dockerfile
-/.dockerignore
 
 # Node build artifacts
 /node_modules
