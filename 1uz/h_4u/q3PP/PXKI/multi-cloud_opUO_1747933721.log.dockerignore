@@ -10,7 +10,6 @@ Dockerfile
 # Node build artifacts
 /node_modules
 /.pnp
-.pnp.js
 # next.js
 /.next/
 
