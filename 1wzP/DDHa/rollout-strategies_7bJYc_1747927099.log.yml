@@ -57,7 +57,6 @@ spec:
                   port: 80
                 host: chip.homelab.msfidelis.com.br
                 virtualService:
-                  http:
                     enabled: true
                     retries:
                       attempts: 1
