@@ -198,7 +198,6 @@ RemoveSemicolon: true
 # SpaceBeforeParensOptions:
 #   AfterControlStatements: true
 #   AfterForeachMacros: true
-#   AfterFunctionDeclarationName: false
 #   AfterFunctionDefinitionName: false
 #   AfterIfMacros: true
 #   AfterOverloadedOperator: false
