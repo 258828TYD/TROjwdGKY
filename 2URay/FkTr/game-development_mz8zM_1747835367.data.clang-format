@@ -55,7 +55,6 @@ AllowShortFunctionsOnASingleLine: Inline
 AttributeMacros:
   - _ALWAYS_INLINE_
   - _FORCE_INLINE_
-  - _NO_INLINE_
 # BinPackArguments: true
 # BinPackParameters: true
 # BitFieldColonSpacing: Both
