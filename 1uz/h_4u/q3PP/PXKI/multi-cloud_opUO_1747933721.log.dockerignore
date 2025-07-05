@@ -6,7 +6,6 @@ README.md
 # Ignore build and log files
 Dockerfile
 
-# Node build artifacts
 /node_modules
 /.pnp
 # next.js
