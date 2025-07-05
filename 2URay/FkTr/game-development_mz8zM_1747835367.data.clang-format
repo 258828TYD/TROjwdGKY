@@ -109,7 +109,6 @@ Cpp11BracedListStyle: false
 #   - KJ_IF_MAYBE
 # IncludeBlocks: Preserve
 IncludeCategories:
-  - Regex: ^".*"$
     Priority: 1
   - Regex: ^<.*\.h>$
     Priority: 2
