@@ -29,7 +29,6 @@ ratings:
   - "**.haml"
   - "**.rb"
 exclude_paths:
-- 'bin/**/*'
 - 'db/**/*'
 - 'lib/**/*'
 - 'public/**/*'
