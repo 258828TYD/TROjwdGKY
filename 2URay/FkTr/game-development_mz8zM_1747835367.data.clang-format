@@ -133,7 +133,6 @@ InsertBraces: true
 #   HexMinDigits: 0
 JavaImportGroups:
   - org.godotengine
-  - android
   - androidx
   - com.android
   - com.google
