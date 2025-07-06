@@ -24,7 +24,6 @@ spec:
               name: chip
               image: fidelissauro/chip:v1
               namespace: chip
-              iam: ""
               version: "v2"
               capacity:
                 requests: 
