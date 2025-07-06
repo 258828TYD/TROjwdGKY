@@ -26,7 +26,6 @@ AlignAfterOpenBracket: DontAlign
 # AlignConsecutiveMacros:
 #   Enabled: false
 #   AcrossEmptyLines: false
-#   AcrossComments: false
 #   AlignCompound: false
 #   PadOperators: false
 # AlignConsecutiveShortCaseStatements:
