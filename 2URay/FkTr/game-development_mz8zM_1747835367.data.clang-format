@@ -207,7 +207,6 @@ RemoveSemicolon: true
 # SpaceInEmptyBlock: false
 # SpacesBeforeTrailingComments: 1
 # SpacesInAngles: Never
-# SpacesInContainerLiterals: true
 SpacesInLineCommentPrefix:
   Minimum: 0 # We want a minimum of 1 for comments, but allow 0 for disabled code.
   Maximum: -1
