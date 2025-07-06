@@ -93,7 +93,6 @@ ColumnLimit: 0
 # CompactNamespaces: false
 ConstructorInitializerIndentWidth: 8
 ContinuationIndentWidth: 8
-Cpp11BracedListStyle: false
 # DerivePointerAlignment: false
 # DisableFormat: false
 # EmptyLineAfterAccessModifier: Never
