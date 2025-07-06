@@ -7,5 +7,4 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
