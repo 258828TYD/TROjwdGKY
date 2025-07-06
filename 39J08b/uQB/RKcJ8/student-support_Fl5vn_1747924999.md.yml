@@ -7,7 +7,6 @@ engines:
   bundler-audit:
     enabled: true
   csslint:
-    enabled: false
   coffeelint:
     enabled: false
   duplication:
