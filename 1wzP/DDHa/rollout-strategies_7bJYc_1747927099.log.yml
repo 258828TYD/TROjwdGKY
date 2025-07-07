@@ -72,7 +72,6 @@ spec:
                   failureThreshold: 10
                   periodSeconds: 10
                   httpGet:
-                    path: /healthcheck
                     port: 8080
                 startupProbe:
                   enabled: true
