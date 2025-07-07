@@ -62,7 +62,6 @@ spec:
                   enabled: true
 
               prometheus:
-                scrape: "true"
                 port: 8080
                 path: /metrics
 
