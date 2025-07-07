@@ -30,7 +30,6 @@ AlignAfterOpenBracket: DontAlign
 #   PadOperators: false
 # AlignConsecutiveShortCaseStatements:
 #   Enabled: false
-#   AcrossEmptyLines: false
 #   AcrossComments: false
 #   AlignCaseColons: false
 # AlignEscapedNewlines: Right
