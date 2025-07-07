@@ -1,4 +1,3 @@
-MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 The above copyright notice and this permission notice shall be included in all
