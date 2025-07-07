@@ -25,7 +25,6 @@ ratings:
   - "**.erb"
   - "**.haml"
   - "**.rb"
-exclude_paths:
 - 'db/**/*'
 - 'lib/**/*'
 - 'public/**/*'
