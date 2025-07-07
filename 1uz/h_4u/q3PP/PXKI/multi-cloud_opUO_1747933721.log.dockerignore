@@ -3,7 +3,6 @@
 README.md
 
 # Ignore build and log files
-Dockerfile
 
 /node_modules
 /.pnp
