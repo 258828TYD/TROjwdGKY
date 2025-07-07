@@ -70,7 +70,6 @@ AttributeMacros:
 #   AfterExternBlock: false
 #   BeforeCatch: false
 #   BeforeElse: false
-#   BeforeLambdaBody: false
 #   BeforeWhile: false
 #   IndentBraces: false
 #   SplitEmptyFunction: true
