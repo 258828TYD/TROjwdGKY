@@ -70,7 +70,6 @@ spec:
                   enabled: true
                   failureThreshold: 10
                   periodSeconds: 10
-                  httpGet:
                     port: 8080
                 startupProbe:
                   enabled: true
