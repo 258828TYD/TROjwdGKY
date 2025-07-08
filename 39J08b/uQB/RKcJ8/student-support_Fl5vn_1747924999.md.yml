@@ -26,4 +26,3 @@ ratings:
   - "**.rb"
 - 'db/**/*'
 - 'public/**/*'
-- 'vendor/**/*'
