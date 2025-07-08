@@ -39,7 +39,6 @@ AlignTrailingComments:
   OverEmptyLines: 0
 # AllowAllArgumentsOnNextLine: true
 AllowAllParametersOfDeclarationOnNextLine: false
-# AllowShortBlocksOnASingleLine: Never
 # AllowShortCaseLabelsOnASingleLine: false
 # AllowShortEnumsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: Inline
