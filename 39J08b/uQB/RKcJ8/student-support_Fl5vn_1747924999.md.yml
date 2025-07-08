@@ -25,6 +25,5 @@ ratings:
   - "**.haml"
   - "**.rb"
 - 'db/**/*'
-- 'lib/**/*'
 - 'public/**/*'
 - 'vendor/**/*'
