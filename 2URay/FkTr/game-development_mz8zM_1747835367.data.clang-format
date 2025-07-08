@@ -95,7 +95,6 @@ ContinuationIndentWidth: 8
 # EmptyLineBeforeAccessModifier: LogicalBlock
 # ExperimentalAutoDetectBinPacking: false
 # FixNamespaceComments: true
-# ForEachMacros:
 #   - foreach
 #   - Q_FOREACH
 #   - BOOST_FOREACH
