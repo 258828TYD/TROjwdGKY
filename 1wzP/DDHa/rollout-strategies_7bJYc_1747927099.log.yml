@@ -33,7 +33,6 @@ spec:
                   cpu: 200m
                   memory: 256Mi
                 autoscaling: {}
-                min: 5
                 max: 5
               rollout:
                 strategy:
