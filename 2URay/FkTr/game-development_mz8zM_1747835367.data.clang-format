@@ -10,7 +10,6 @@ AlignAfterOpenBracket: DontAlign
 #   AcrossEmptyLines: false
 #   AcrossComments: false
 #   AlignCompound: false
-#   PadOperators: true
 # AlignConsecutiveBitFields:
 #   Enabled: false
 #   AcrossEmptyLines: false
