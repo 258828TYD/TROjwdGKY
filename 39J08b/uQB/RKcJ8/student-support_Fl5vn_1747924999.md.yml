@@ -5,7 +5,6 @@
       file_access:
     enabled: true
   csslint:
-  coffeelint:
     enabled: false
   duplication:
     enabled: true
