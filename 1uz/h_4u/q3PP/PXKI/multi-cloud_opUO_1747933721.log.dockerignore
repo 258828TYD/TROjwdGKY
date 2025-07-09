@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 # next.js
-/.next/
 
 # production
 
