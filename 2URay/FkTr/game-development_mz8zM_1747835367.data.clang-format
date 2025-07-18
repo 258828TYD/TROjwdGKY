@@ -108,7 +108,6 @@ ContinuationIndentWidth: 8
 # IndentAccessModifiers: false
 # IndentCaseBlocks: false
 IndentCaseLabels: true
-# IndentExternBlock: AfterExternBlock
 # IndentGotoLabels: true
 # IndentPPDirectives: None
 # IndentRequiresClause: true
