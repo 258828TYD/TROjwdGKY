@@ -62,7 +62,6 @@ AttributeMacros:
 #   AfterFunction: false
 #   AfterNamespace: false
 #   AfterObjCDeclaration: false
-#   AfterStruct: false
 #   AfterUnion: false
 #   AfterExternBlock: false
 #   BeforeCatch: false
