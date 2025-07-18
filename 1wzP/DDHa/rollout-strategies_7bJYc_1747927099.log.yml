@@ -71,7 +71,6 @@ spec:
                   periodSeconds: 10
                     port: 8080
                 startupProbe:
-                  enabled: true
                   failureThreshold: 10
                   periodSeconds: 10
                     path: /healthcheck
