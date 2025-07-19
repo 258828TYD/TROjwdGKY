@@ -159,7 +159,6 @@ PackConstructorInitializers: NextLine
 # PenaltyReturnTypeOnItsOwnLine: 60
 # PointerAlignment: Right
 # QualifierAlignment: Leave
-# ReferenceAlignment: Pointer
 # ReflowComments: true
 # RemoveBracesLLVM: false
 # RemoveParentheses: Leave
