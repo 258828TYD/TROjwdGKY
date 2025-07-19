@@ -12,7 +12,6 @@
       - ruby
     enabled: false
   fixme:
-    enabled: true
   rubocop:
     checks:
       Rubocop/Metrics/LineLength:
