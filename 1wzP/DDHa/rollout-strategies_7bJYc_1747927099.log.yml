@@ -55,7 +55,6 @@ spec:
                 host: chip.homelab.msfidelis.com.br
                 virtualService:
                     enabled: true
-                    retries:
                       attempts: 1
                 DestinationRule:
                   enabled: true
