@@ -189,7 +189,6 @@ RemoveSemicolon: true
 #   AfterRequiresInExpression: false
 #   BeforeNonEmptyParentheses: false
 # SpaceBeforeRangeBasedForLoopColon: true
-# SpaceBeforeSquareBrackets: false
 # SpaceInEmptyBlock: false
 # SpacesBeforeTrailingComments: 1
 # SpacesInAngles: Never
