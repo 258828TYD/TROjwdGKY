@@ -3,7 +3,6 @@
 # production
 
 .github/
-# IDEs
 # debug
 npm-debug.log*
 yarn-debug.log*
