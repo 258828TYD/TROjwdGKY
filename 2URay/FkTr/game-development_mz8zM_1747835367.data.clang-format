@@ -198,7 +198,6 @@ SpacesInLineCommentPrefix:
 # SpacesInParens: Never
 # SpacesInParensOptions:
 #   InConditionalStatements: false
-#   InCStyleCasts: false
 #   InEmptyParentheses: false
 #   Other: false
 # SpacesInSquareBrackets: false
