@@ -48,7 +48,6 @@ spec:
               service:
                 type: ClusterIP
               istio:
-                  selector: ingressgateway
                   # HTTP, HTTP2, GRPC, GRPC-WEB, MONGO, REDIS, MYSQL, TCP
                   protocol: HTTP 
                   port: 80
