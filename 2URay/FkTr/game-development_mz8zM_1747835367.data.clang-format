@@ -178,7 +178,6 @@ RemoveSemicolon: true
 # SpaceBeforeCpp11BracedList: false
 # SpaceBeforeCtorInitializerColon: true
 # SpaceBeforeInheritanceColon: true
-# SpaceBeforeJsonColon: false
 # SpaceBeforeParensOptions:
 #   AfterControlStatements: true
 #   AfterForeachMacros: true
