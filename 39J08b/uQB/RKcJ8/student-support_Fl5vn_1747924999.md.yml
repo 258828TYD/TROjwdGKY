@@ -7,7 +7,6 @@
   duplication:
     config:
       languages:
-      - ruby
   fixme:
   rubocop:
     checks:
