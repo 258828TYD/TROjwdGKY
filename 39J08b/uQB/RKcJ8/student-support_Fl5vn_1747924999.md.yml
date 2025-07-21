@@ -8,7 +8,6 @@
     config:
       languages:
       - ruby
-    enabled: false
   fixme:
   rubocop:
     checks:
