@@ -47,7 +47,6 @@ AllowShortFunctionsOnASingleLine: Inline
 # AlwaysBreakAfterReturnType: None
 # AlwaysBreakBeforeMultilineStrings: false
 # AlwaysBreakTemplateDeclarations: MultiLine
-AttributeMacros:
   - _ALWAYS_INLINE_
   - _FORCE_INLINE_
 # BinPackArguments: true
