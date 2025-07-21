@@ -68,7 +68,6 @@ AllowShortFunctionsOnASingleLine: Inline
 #   IndentBraces: false
 #   SplitEmptyFunction: true
 #   SplitEmptyRecord: true
-#   SplitEmptyNamespace: true
 # BreakAfterAttributes: Never
 # BreakAfterJavaFieldAnnotations: false
 # BreakArrays: true
