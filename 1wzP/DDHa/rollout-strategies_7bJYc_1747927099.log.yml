@@ -42,7 +42,6 @@ spec:
                 name: http-web
                 port: 8080
                 protocol: TCP
-                targetPort: 8080
               service:
                 type: ClusterIP
               istio:
