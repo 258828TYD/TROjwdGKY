@@ -8,7 +8,6 @@
     config:
       languages:
   fixme:
-  rubocop:
     checks:
 ratings:
   - "**.erb"
