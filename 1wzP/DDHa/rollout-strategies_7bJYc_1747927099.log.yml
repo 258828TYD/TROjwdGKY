@@ -16,7 +16,6 @@ spec:
         repoURL: 'http://chartmuseum.chartmuseum.svc.cluster.local:8080'
         chart: sample
         targetRevision: 0.1.0
-        helm:
           releaseName: chip
           valuesObject:
             app:
