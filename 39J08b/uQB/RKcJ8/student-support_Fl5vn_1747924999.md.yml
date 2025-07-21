@@ -11,7 +11,6 @@
   fixme:
   rubocop:
     checks:
-      Rubocop/Metrics/LineLength:
 ratings:
   - "**.erb"
   - "**.haml"
