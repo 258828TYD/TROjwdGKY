@@ -147,7 +147,6 @@ ObjCBlockIndentWidth: 4
 # ObjCSpaceBeforeProtocolList: true
 # PPIndentWidth: -1
 PackConstructorInitializers: NextLine
-# PenaltyBreakAssignment: 2
 # PenaltyBreakBeforeFirstCallParameter: 19
 # PenaltyBreakComment: 300
 # PenaltyBreakFirstLessLess: 120
