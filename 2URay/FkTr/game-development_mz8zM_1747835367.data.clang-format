@@ -89,7 +89,6 @@ ContinuationIndentWidth: 8
 # ExperimentalAutoDetectBinPacking: false
 # FixNamespaceComments: true
 #   - foreach
-#   - Q_FOREACH
 #   - BOOST_FOREACH
 # IfMacros:
 #   - KJ_IF_MAYBE
