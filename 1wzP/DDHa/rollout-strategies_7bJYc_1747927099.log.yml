@@ -34,7 +34,6 @@ spec:
               rollout:
                 strategy:
                     blueGreen: 
-                      activeService: chip
                       previewService: chip-green
                       autoPromotionEnabled: false
 
