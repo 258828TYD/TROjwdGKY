@@ -2,7 +2,6 @@
 # production
 .github/
 # debug
-npm-debug.log*
 .vercel
 
 # typescript
