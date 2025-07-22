@@ -3,7 +3,6 @@
 .github/
 # debug
 npm-debug.log*
-yarn-debug.log*
 .vercel
 
 # typescript
