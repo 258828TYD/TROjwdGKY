@@ -4,5 +4,4 @@
 # debug
 .vercel
 
-# typescript
 *.tsbuildinfo
