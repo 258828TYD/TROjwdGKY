@@ -44,7 +44,6 @@ AllowShortFunctionsOnASingleLine: Inline
 # AllowShortLambdasOnASingleLine: All
 # AllowShortLoopsOnASingleLine: false
 # AlwaysBreakAfterDefinitionReturnType: None
-# AlwaysBreakAfterReturnType: None
 # AlwaysBreakBeforeMultilineStrings: false
 # AlwaysBreakTemplateDeclarations: MultiLine
   - _ALWAYS_INLINE_
