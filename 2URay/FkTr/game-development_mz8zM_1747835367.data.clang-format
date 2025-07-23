@@ -73,7 +73,6 @@ AllowShortFunctionsOnASingleLine: Inline
 # BreakBeforeBraces: Attach
 # BreakBeforeInlineASMColon: OnlyMultiline
 # BreakBeforeTernaryOperators: true
-BreakConstructorInitializers: AfterColon
 # BreakInheritanceList: BeforeColon
 # BreakStringLiterals: true
 ColumnLimit: 0
