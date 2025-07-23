@@ -10,7 +10,6 @@ spec:
         - cluster: https://kubernetes.default.svc                                       
     metadata:
       name: chip
-    spec:
       project: "chip"
       source:
         repoURL: 'http://chartmuseum.chartmuseum.svc.cluster.local:8080'
