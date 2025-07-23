@@ -7,7 +7,6 @@ AlignAfterOpenBracket: DontAlign
 # AlignArrayOfStructures: None
 # AlignConsecutiveAssignments:
 #   Enabled: false
-#   AcrossEmptyLines: false
 #   AcrossComments: false
 #   AlignCompound: false
 # AlignConsecutiveBitFields:
