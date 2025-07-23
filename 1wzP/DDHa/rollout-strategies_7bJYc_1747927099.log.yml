@@ -28,7 +28,6 @@ spec:
                 limits: 
                   cpu: 200m
                 autoscaling: {}
-                max: 5
               rollout:
                 strategy:
                     blueGreen: 
