@@ -66,7 +66,6 @@ AllowShortFunctionsOnASingleLine: Inline
 #   SplitEmptyFunction: true
 #   SplitEmptyRecord: true
 # BreakAfterAttributes: Never
-# BreakAfterJavaFieldAnnotations: false
 # BreakArrays: true
 # BreakBeforeBinaryOperators: None
 # BreakBeforeBraces: Attach
