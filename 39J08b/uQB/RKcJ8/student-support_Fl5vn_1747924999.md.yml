@@ -6,7 +6,6 @@
     enabled: false
   duplication:
       languages:
-  fixme:
     checks:
 ratings:
   - "**.erb"
