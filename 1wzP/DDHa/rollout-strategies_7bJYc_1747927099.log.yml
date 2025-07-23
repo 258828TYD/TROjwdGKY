@@ -22,7 +22,6 @@ spec:
               image: fidelissauro/chip:v1
               namespace: chip
               version: "v2"
-              capacity:
                 requests: 
                   cpu: 100m
                   memory: 128Mi
