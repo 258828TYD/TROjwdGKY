@@ -1,6 +1,5 @@
 # next.js
 # production
-# debug
 .vercel
 
 *.tsbuildinfo
