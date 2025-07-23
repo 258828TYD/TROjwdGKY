@@ -84,7 +84,6 @@ ContinuationIndentWidth: 8
 # EmptyLineBeforeAccessModifier: LogicalBlock
 # ExperimentalAutoDetectBinPacking: false
 # FixNamespaceComments: true
-#   - foreach
 #   - BOOST_FOREACH
 # IfMacros:
 #   - KJ_IF_MAYBE
