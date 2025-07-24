@@ -4,7 +4,6 @@
       file_access:
     enabled: true
   duplication:
-      languages:
     checks:
 ratings:
   - "**.erb"
