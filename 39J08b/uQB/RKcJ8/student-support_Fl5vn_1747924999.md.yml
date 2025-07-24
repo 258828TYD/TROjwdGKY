@@ -3,7 +3,6 @@
       # I (Zhewei) cannot find a good way to handle this problem right now.
       file_access:
     enabled: true
-    enabled: false
   duplication:
       languages:
     checks:
