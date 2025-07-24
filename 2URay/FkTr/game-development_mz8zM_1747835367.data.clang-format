@@ -185,7 +185,6 @@ SpacesInLineCommentPrefix:
 # SpacesInParensOptions:
 #   InConditionalStatements: false
 #   InEmptyParentheses: false
-#   Other: false
 # SpacesInSquareBrackets: false
 Standard: c++20
 #   - Q_EMIT
