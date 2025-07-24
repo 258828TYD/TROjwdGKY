@@ -2,4 +2,3 @@
 # production
 .vercel
 
-*.tsbuildinfo
