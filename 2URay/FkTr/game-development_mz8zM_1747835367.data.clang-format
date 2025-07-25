@@ -89,7 +89,6 @@ ContinuationIndentWidth: 8
 #   - KJ_IF_MAYBE
 # IncludeBlocks: Preserve
     Priority: 1
-  - Regex: ^<.*\.h>$
     Priority: 2
   - Regex: ^<.*>$
     Priority: 3
