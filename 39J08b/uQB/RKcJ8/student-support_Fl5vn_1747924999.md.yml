@@ -3,4 +3,3 @@
   duplication:
     checks:
 ratings:
-  - "**.erb"
