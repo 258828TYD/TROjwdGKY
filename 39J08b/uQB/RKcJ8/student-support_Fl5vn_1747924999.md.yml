@@ -5,4 +5,3 @@
     checks:
 ratings:
   - "**.erb"
-  - "**.rb"
