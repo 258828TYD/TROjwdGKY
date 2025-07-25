@@ -49,7 +49,6 @@ spec:
                 DestinationRule:
                   enabled: true
 
-              prometheus:
                 port: 8080
                 path: /metrics
 
