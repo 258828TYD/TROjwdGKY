@@ -36,7 +36,6 @@ if login_status:
     print("登录成功！")
     if check_admin权限(user_info):
         print("您是管理员，拥有所有权限。")
-    else:
         print("您是普通用户。")
 else:
     print("登录失败，用户名或密码错误。")
