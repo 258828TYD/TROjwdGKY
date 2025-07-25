@@ -6,5 +6,4 @@
     checks:
 ratings:
   - "**.erb"
-  - "**.haml"
   - "**.rb"
