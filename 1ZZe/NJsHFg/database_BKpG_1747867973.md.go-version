@@ -24,7 +24,6 @@ def check_admin权限(user):
     校验用户是否为管理员。
     """
     if user and user['is_admin']:
-        return True
     else:
         return False
 
