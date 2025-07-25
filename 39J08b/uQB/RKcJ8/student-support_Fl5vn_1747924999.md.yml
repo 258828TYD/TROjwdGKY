@@ -1,7 +1,6 @@
   brakeman:
     enabled: true
       # I (Zhewei) cannot find a good way to handle this problem right now.
-    enabled: true
   duplication:
     checks:
 ratings:
