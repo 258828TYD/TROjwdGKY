@@ -1,4 +1,3 @@
-  brakeman:
     enabled: true
   duplication:
     checks:
