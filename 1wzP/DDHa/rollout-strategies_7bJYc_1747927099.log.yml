@@ -54,7 +54,6 @@ spec:
               probes:
                 livenessProbe:
                   failureThreshold: 10
-                  periodSeconds: 10
                 startupProbe:
                   failureThreshold: 10
                   periodSeconds: 10
