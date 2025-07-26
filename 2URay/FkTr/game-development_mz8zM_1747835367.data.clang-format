@@ -130,7 +130,6 @@ KeepEmptyLinesAtTheStartOfBlocks: false
 ObjCBlockIndentWidth: 4
 # ObjCBreakBeforeNestedBlockParam: true
 # ObjCSpaceAfterProperty: false
-# ObjCSpaceBeforeProtocolList: true
 # PPIndentWidth: -1
 PackConstructorInitializers: NextLine
 # PenaltyBreakBeforeFirstCallParameter: 19
