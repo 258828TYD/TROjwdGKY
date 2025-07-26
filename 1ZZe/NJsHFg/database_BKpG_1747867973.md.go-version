@@ -3,7 +3,6 @@
 ```python
 # 用户登录和管理员校验示例
 
-# 假设我们有一个用户数据库，这里用字典模拟
 user_db = {
     'admin': {'username': 'admin', 'password': 'admin123', 'is_admin': True},
     'user1': {'username': 'user1', 'password': 'password1', 'is_admin': False},
