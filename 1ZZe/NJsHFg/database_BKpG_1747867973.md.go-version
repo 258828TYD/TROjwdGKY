@@ -14,7 +14,6 @@ def login(username, password):
     用户登录函数，返回登录状态和用户信息。
     """
     user = user_db.get(username)
-    if user and user['password'] == password:
         return True, user
     else:
         return False, None
