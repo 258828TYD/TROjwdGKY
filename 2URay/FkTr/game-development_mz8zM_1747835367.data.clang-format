@@ -68,7 +68,6 @@ AllowShortFunctionsOnASingleLine: Inline
 # BreakAfterAttributes: Never
 # BreakArrays: true
 # BreakBeforeBinaryOperators: None
-# BreakBeforeBraces: Attach
 # BreakBeforeInlineASMColon: OnlyMultiline
 # BreakBeforeTernaryOperators: true
 # BreakInheritanceList: BeforeColon
