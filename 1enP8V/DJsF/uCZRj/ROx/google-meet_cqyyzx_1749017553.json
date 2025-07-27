@@ -1,5 +1,4 @@
   "name": "video",
-  "private": true,
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "concurrently": "^5.1.0",
