@@ -168,7 +168,6 @@ RemoveSemicolon: true
 #   BeforeNonEmptyParentheses: false
 # SpaceBeforeRangeBasedForLoopColon: true
 # SpaceInEmptyBlock: false
-# SpacesBeforeTrailingComments: 1
 # SpacesInAngles: Never
 SpacesInLineCommentPrefix:
   Minimum: 0 # We want a minimum of 1 for comments, but allow 0 for disabled code.
