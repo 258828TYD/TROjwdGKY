@@ -148,7 +148,6 @@ RemoveSemicolon: true
 # SeparateDefinitionBlocks: Leave
 # ShortNamespaceLines: 1
 # SortIncludes: CaseSensitive
-# SortJavaStaticImport: Before
 # SortUsingDeclarations: LexicographicNumeric
 # SpaceAfterCStyleCast: false
 # SpaceAfterLogicalNot: false
