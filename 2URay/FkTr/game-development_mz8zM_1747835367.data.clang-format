@@ -175,7 +175,6 @@ SpacesInLineCommentPrefix:
   Minimum: 0 # We want a minimum of 1 for comments, but allow 0 for disabled code.
   Maximum: -1
 # SpacesInParens: Never
-# SpacesInParensOptions:
 #   InConditionalStatements: false
 #   InEmptyParentheses: false
 # SpacesInSquareBrackets: false
