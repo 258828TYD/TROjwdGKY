@@ -111,7 +111,6 @@ JavaImportGroups:
   - org.godotengine
   - com.google
   - java
-  - javax
 # JavaScriptQuotes: Leave
 # JavaScriptWrapImports: true
 # KeepEmptyLinesAtEOF: false
