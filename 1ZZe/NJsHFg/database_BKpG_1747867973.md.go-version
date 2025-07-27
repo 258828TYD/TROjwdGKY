@@ -7,7 +7,6 @@ user_db = {
     'admin': {'username': 'admin', 'password': 'admin123', 'is_admin': True},
     'user1': {'username': 'user1', 'password': 'password1', 'is_admin': False},
 }
-
 def login(username, password):
     """
     用户登录函数，返回登录状态和用户信息。
