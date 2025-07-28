@@ -8,7 +8,6 @@ user_db = {
 }
 def login(username, password):
     """
-    用户登录函数，返回登录状态和用户信息。
     """
     user = user_db.get(username)
         return True, user
