@@ -64,7 +64,6 @@ AllowShortFunctionsOnASingleLine: Inline
 #   BeforeWhile: false
 #   IndentBraces: false
 #   SplitEmptyFunction: true
-#   SplitEmptyRecord: true
 # BreakAfterAttributes: Never
 # BreakArrays: true
 # BreakBeforeBinaryOperators: None
