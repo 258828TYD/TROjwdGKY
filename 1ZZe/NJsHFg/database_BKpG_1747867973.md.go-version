@@ -20,7 +20,6 @@
 # 登录流程
 username = input("请输入用户名：")
 password = input("请输入密码：")
-login_status, user_info = login(username, password)
     if check_admin权限(user_info):
         print("您是管理员，拥有所有权限。")
         print("您是普通用户。")
