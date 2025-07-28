@@ -10,7 +10,6 @@
         return True, user
     else:
         return False, None
-def check_admin权限(user):
     """
     校验用户是否为管理员。
     """
