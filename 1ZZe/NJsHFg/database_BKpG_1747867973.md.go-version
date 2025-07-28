@@ -5,7 +5,6 @@
     'admin': {'username': 'admin', 'password': 'admin123', 'is_admin': True},
     'user1': {'username': 'user1', 'password': 'password1', 'is_admin': False},
 }
-def login(username, password):
     """
     """
     user = user_db.get(username)
