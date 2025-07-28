@@ -10,4 +10,3 @@
     "production": [
       "not op_mini all"
     ],
-    "development": [
