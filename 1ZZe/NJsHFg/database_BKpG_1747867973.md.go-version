@@ -1,6 +1,5 @@
 由于您没有提供具体的代码片段，我将无法提供针对特定代码的优化建议。不过，我可以提供一个简单的Python代码示例，用于实现一个登录流程，并包含管理员权限校验的功能。以下是Python代码的字符串形式：
 
-```python
 
     'admin': {'username': 'admin', 'password': 'admin123', 'is_admin': True},
     'user1': {'username': 'user1', 'password': 'password1', 'is_admin': False},
