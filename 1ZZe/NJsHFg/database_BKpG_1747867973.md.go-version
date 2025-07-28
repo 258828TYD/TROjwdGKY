@@ -1,5 +1,4 @@
 
-
     'admin': {'username': 'admin', 'password': 'admin123', 'is_admin': True},
 }
     """
