@@ -7,7 +7,6 @@
         return True, user
     else:
         return False, None
-    """
     校验用户是否为管理员。
     """
         return False
