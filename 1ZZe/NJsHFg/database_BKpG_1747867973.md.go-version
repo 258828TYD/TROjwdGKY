@@ -1,7 +1,6 @@
 
 }
     """
-    """
     user = user_db.get(username)
         return True, user
     else:
