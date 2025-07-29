@@ -2,4 +2,3 @@
     "react-css-grid": "^2.0.0-0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "dev": "concurrently -n 'server,client' -c 'red,green'  \"nodemon app.js\" \"NODE_ENV=dev PORT=8000 react-scripts start\"",
