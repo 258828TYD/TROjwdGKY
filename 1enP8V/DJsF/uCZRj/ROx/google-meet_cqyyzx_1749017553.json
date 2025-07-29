@@ -1,5 +1,4 @@
   "name": "video",
-    "concurrently": "^5.1.0",
     "express": "^4.17.1",
     "react-css-grid": "^2.0.0-0",
     "react-dom": "^16.13.1",
