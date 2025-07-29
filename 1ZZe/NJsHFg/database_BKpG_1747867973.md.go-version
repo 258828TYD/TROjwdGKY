@@ -5,7 +5,6 @@
         return True, user
         return False, None
     校验用户是否为管理员。
-    """
         return False
 # 登录流程
 username = input("请输入用户名：")
