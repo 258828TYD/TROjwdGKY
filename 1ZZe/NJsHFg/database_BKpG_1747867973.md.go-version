@@ -7,7 +7,6 @@
     校验用户是否为管理员。
     """
         return False
-
 # 登录流程
 username = input("请输入用户名：")
 password = input("请输入密码：")
